@@ -1,4 +1,4 @@
-# Planner
+# Organizador-Pessoal
 
 Calendario interativo editavel criado a partir de um projeto do Figma.
 
